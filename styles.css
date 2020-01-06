@@ -9,9 +9,9 @@
 }
 
 .navbar-nav li a {
-    align-items: flex-end;
+    padding-left: none;
+    list-style: none;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    padding-right: 10%%;
     font-size: 0.6em;
     margin: 0px 20px;
     color: white !important;
