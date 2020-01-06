@@ -1,4 +1,6 @@
 .navbar-header {
+    padding: 0%;
+    background-image: url(resources/g.jpg);
     background-color: steelblue;
     background-size: cover;
     background-repeat: no-repeat;
@@ -9,8 +11,8 @@
 .navbar-nav li a {
     align-items: flex-end;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    padding-left: 10%;
-    font-size: 1.2em;
+    padding-right: 10%%;
+    font-size: 0.6em;
     margin: 0px 20px;
     color: white !important;
 }
