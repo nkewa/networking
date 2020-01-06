@@ -8,13 +8,17 @@
     height: 100%;
 }
 
-.navbar-nav li a {
+.navbar-nav a {
     padding-left: none;
-    list-style: none;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 0.6em;
     margin: 0px 20px;
     color: white !important;
+}
+
+li {
+    float: left;
+    list-style-type: none
 }
 
 .site-title {
