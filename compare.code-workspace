@@ -1,0 +1,15 @@
+{
+    "folders": [
+		{
+			"name": "bootstrap-4.4.1-dist",
+			"path": "C:\\Users\\iwenk\\Desktop\\bootstrap-4.4.1-dist"
+		},
+		{
+			"name": "Web Builder",
+			"path": "."
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "Web Builder"
+    }
+}
